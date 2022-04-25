@@ -1,5 +1,9 @@
 # WEB
-Repository for TIL about ONLY WEB
+스터디 그룹 TIP-3F의 TIL입니다.
+
+웹 위주지만, 다른 주제도 허용됩니다.
+
+내용이 문제가 있을 경우, 언제든지 Issue나 Pull Request 주시면 감사하겠습니다.
 
 ## Rule
 1. 매일 TIL 업로드 (분량 무관)
