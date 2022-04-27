@@ -18,6 +18,10 @@
 
 - [Message Queue vs Pub/Sub](https://github.com/TIP-3F/WEB/blob/main/TIL/message-queue-vs-pub-sub.md)
 
+### 데이터 엔지니어링
+
+- [HDFS Architecture Guide](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
+
 ### 오픈 소스 소프트웨어
 
 - [Open Source Software](https://github.com/TIP-3F/WEB/blob/main/TIL/oss.md)
