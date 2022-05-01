@@ -30,6 +30,7 @@
 
 - [컨테이너](https://www.44bits.io/ko/keyword/linux-container)
 - [가상화와 도커](https://www.youtube.com/watch?v=zh0OMXg2Kog)
+- [가상화와 도커 Notion 정리](https://jiho-lee.notion.site/20-001f0971d6d14e72a34e1e76a989f8e8)
 
 ### 소프트웨어 마에스트로
 
