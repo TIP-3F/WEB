@@ -32,6 +32,14 @@
 - [가상화와 도커](https://www.youtube.com/watch?v=zh0OMXg2Kog)
 - [가상화와 도커 Notion 정리](https://jiho-lee.notion.site/20-001f0971d6d14e72a34e1e76a989f8e8)
 
+### 포트폴리오
+
+- [참고 템플릿 - 코몬](https://docs.google.com/document/d/1Y2Y7-DWO-0F68nsUxB-ObYbXTdQgBHu-Fw48yTYG6R0/mobilebasic)
+- [참고 자료1 - wonny](https://wonny.space/writing/work/engineer-resume)
+- [참고 자료2 - 우아한형제들 기술 블로그](https://techblog.woowahan.com/2531/)
+- [참고 자료3 - 포트폴리오 모음집](https://github.com/dongyi-kim/Awesome_Resume_Portfolio?fbclid=IwAR3UhxfIYTYBTdkkcTl66Ed4tkz80rL5SZc0Qvs3pcurGSOjqnrfsRjvrcQ)
+- [참고 영상](https://www.youtube.com/watch?v=wfInwxT0UUA)
+
 ### 소프트웨어 마에스트로
 
 - [이한솔 멘토님 프론트엔드 멘토링](https://jiho-lee.notion.site/e23fdefe7311438a9d6c3675a02a34b5)
