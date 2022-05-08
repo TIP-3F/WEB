@@ -32,6 +32,10 @@
 - [가상화와 도커](https://www.youtube.com/watch?v=zh0OMXg2Kog)
 - [가상화와 도커 Notion 정리](https://jiho-lee.notion.site/20-001f0971d6d14e72a34e1e76a989f8e8)
 
+### 리눅스
+
+- [EC2 스왑 메모리](https://wooogy-egg.tistory.com/83)
+
 ### 포트폴리오
 
 - [참고 템플릿 - 코몬](https://docs.google.com/document/d/1Y2Y7-DWO-0F68nsUxB-ObYbXTdQgBHu-Fw48yTYG6R0/mobilebasic)
