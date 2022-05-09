@@ -52,3 +52,4 @@
 
 - [이한솔 멘토님 프론트엔드 멘토링](https://jiho-lee.notion.site/e23fdefe7311438a9d6c3675a02a34b5)
 - [한기용 멘토님 멘토링](https://jiho-lee.notion.site/728e047edd4d472ba1a31413b3e33fe2)
+- [해외연수 - 한기용님 강의](https://capricious-feta-27c.notion.site/f8827510c03d4f22984e11405a55f61d)
