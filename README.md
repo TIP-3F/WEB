@@ -26,6 +26,8 @@
 
 - [Open Source Software](https://github.com/TIP-3F/WEB/blob/main/TIL/oss.md)
 
+### 자바스크립트
+- [자바스크립트는 왜 그 모양일까? 요약본](https://www.rinae.dev/posts/how-javascript-works-summary)
 ### 프론트엔드
 - [Lighthouse](https://foremost-earwig-040.notion.site/Lighthouse-3797d9af0f634d87a106cc726c2eef1a)
 ### 도커
