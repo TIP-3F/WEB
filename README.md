@@ -14,6 +14,10 @@
 
 ## 분류 / 문서 목록
 
+### 개발 문화
+
+- [테크 스펙](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
+
 ### 스트림 처리
 
 - [Message Queue vs Pub/Sub](https://github.com/TIP-3F/WEB/blob/main/TIL/message-queue-vs-pub-sub.md)
@@ -27,9 +31,13 @@
 - [Open Source Software](https://github.com/TIP-3F/WEB/blob/main/TIL/oss.md)
 
 ### 자바스크립트
+
 - [자바스크립트는 왜 그 모양일까? 요약본](https://www.rinae.dev/posts/how-javascript-works-summary)
+
 ### 프론트엔드
+
 - [Lighthouse](https://foremost-earwig-040.notion.site/Lighthouse-3797d9af0f634d87a106cc726c2eef1a)
+
 ### 도커
 
 - [컨테이너](https://www.44bits.io/ko/keyword/linux-container)
