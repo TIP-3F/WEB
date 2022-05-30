@@ -17,6 +17,7 @@
 ### 개발 문화
 
 - [테크 스펙](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
+- [코드 리뷰](https://engineering.ab180.co/stories/productive-review-culture?utm_source=fb&utm_medium=banner&utm_campaign=review&utm_term=notext&fbclid=IwAR2wgWajcRFg3BgL2eelUtBmuY5qepqP5IWN3tMPNdgUB_050_Aw_SfNgm4#835a9b6c-bf35-487f-9abf-28c12634becb)
 
 ### 스트림 처리
 
