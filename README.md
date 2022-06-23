@@ -53,6 +53,10 @@
 
 - [EC2 스왑 메모리](https://wooogy-egg.tistory.com/83)
 
+### 블록체인
+
+- [DID 표준](https://www.w3.org/TR/did-core/#identifiers)
+
 ### 포트폴리오
 
 - [참고 템플릿 - 코몬](https://docs.google.com/document/d/1Y2Y7-DWO-0F68nsUxB-ObYbXTdQgBHu-Fw48yTYG6R0/mobilebasic)
